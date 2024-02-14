@@ -1,1 +1,1 @@
-# cwlo-embedded
+# Git Repository for Embedded Software Development
